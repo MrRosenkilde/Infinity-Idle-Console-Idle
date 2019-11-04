@@ -1,0 +1,11 @@
+C:\Users\denni\source\repos\InfiniteNumbers\InfiniteNumbers\bin\Debug\netcoreapp2.0\InfiniteNumbers.deps.json
+C:\Users\denni\source\repos\InfiniteNumbers\InfiniteNumbers\bin\Debug\netcoreapp2.0\InfiniteNumbers.runtimeconfig.json
+C:\Users\denni\source\repos\InfiniteNumbers\InfiniteNumbers\bin\Debug\netcoreapp2.0\InfiniteNumbers.runtimeconfig.dev.json
+C:\Users\denni\source\repos\InfiniteNumbers\InfiniteNumbers\bin\Debug\netcoreapp2.0\InfiniteNumbers.dll
+C:\Users\denni\source\repos\InfiniteNumbers\InfiniteNumbers\bin\Debug\netcoreapp2.0\InfiniteNumbers.pdb
+C:\Users\denni\source\repos\InfiniteNumbers\InfiniteNumbers\obj\Debug\netcoreapp2.0\InfiniteNumbers.csprojAssemblyReference.cache
+C:\Users\denni\source\repos\InfiniteNumbers\InfiniteNumbers\obj\Debug\netcoreapp2.0\InfiniteNumbers.csproj.CoreCompileInputs.cache
+C:\Users\denni\source\repos\InfiniteNumbers\InfiniteNumbers\obj\Debug\netcoreapp2.0\InfiniteNumbers.AssemblyInfoInputs.cache
+C:\Users\denni\source\repos\InfiniteNumbers\InfiniteNumbers\obj\Debug\netcoreapp2.0\InfiniteNumbers.AssemblyInfo.cs
+C:\Users\denni\source\repos\InfiniteNumbers\InfiniteNumbers\obj\Debug\netcoreapp2.0\InfiniteNumbers.dll
+C:\Users\denni\source\repos\InfiniteNumbers\InfiniteNumbers\obj\Debug\netcoreapp2.0\InfiniteNumbers.pdb
