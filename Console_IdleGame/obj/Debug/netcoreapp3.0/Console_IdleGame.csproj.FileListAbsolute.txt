@@ -1,0 +1,14 @@
+C:\Users\denni\source\repos\InfiniteNumbers\Console_IdleGame\bin\Debug\netcoreapp3.0\Console_IdleGame.exe
+C:\Users\denni\source\repos\InfiniteNumbers\Console_IdleGame\bin\Debug\netcoreapp3.0\Console_IdleGame.deps.json
+C:\Users\denni\source\repos\InfiniteNumbers\Console_IdleGame\bin\Debug\netcoreapp3.0\Console_IdleGame.runtimeconfig.json
+C:\Users\denni\source\repos\InfiniteNumbers\Console_IdleGame\bin\Debug\netcoreapp3.0\Console_IdleGame.runtimeconfig.dev.json
+C:\Users\denni\source\repos\InfiniteNumbers\Console_IdleGame\bin\Debug\netcoreapp3.0\Console_IdleGame.dll
+C:\Users\denni\source\repos\InfiniteNumbers\Console_IdleGame\bin\Debug\netcoreapp3.0\Console_IdleGame.pdb
+C:\Users\denni\source\repos\InfiniteNumbers\Console_IdleGame\bin\Debug\netcoreapp3.0\InfiniteNumbers.dll
+C:\Users\denni\source\repos\InfiniteNumbers\Console_IdleGame\bin\Debug\netcoreapp3.0\InfiniteNumbers.pdb
+C:\Users\denni\source\repos\InfiniteNumbers\Console_IdleGame\obj\Debug\netcoreapp3.0\Console_IdleGame.csprojAssemblyReference.cache
+C:\Users\denni\source\repos\InfiniteNumbers\Console_IdleGame\obj\Debug\netcoreapp3.0\Console_IdleGame.AssemblyInfoInputs.cache
+C:\Users\denni\source\repos\InfiniteNumbers\Console_IdleGame\obj\Debug\netcoreapp3.0\Console_IdleGame.AssemblyInfo.cs
+C:\Users\denni\source\repos\InfiniteNumbers\Console_IdleGame\obj\Debug\netcoreapp3.0\Console_IdleGame.csproj.CopyComplete
+C:\Users\denni\source\repos\InfiniteNumbers\Console_IdleGame\obj\Debug\netcoreapp3.0\Console_IdleGame.dll
+C:\Users\denni\source\repos\InfiniteNumbers\Console_IdleGame\obj\Debug\netcoreapp3.0\Console_IdleGame.pdb
